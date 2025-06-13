@@ -1,0 +1,73 @@
+2025-06-12 13:31:34,601 - INFO - Iniciando en MODO PRUEBA - Solo monitoreo
+2025-06-12 13:31:36,664 - INFO - Nodos detectados: 1
+2025-06-12 13:31:36,665 - INFO - Pods candidatos: 9
+2025-06-12 13:31:36,666 - INFO - Nodos Spot: 0/1
+2025-06-12 13:32:06,853 - INFO - Nodos detectados: 1
+2025-06-12 13:32:06,854 - INFO - Pods candidatos: 9
+2025-06-12 13:32:06,854 - INFO - Nodos Spot: 0/1
+2025-06-12 13:32:38,116 - INFO - Nodos detectados: 1
+2025-06-12 13:32:38,120 - INFO - Pods candidatos: 9
+2025-06-12 13:32:38,121 - INFO - Nodos Spot: 0/1
+2025-06-12 13:39:39,386 - INFO - Iniciando en MODO PRUEBA (Docker Desktop)
+2025-06-12 13:39:39,999 - INFO - 
+=== Estado del cluster ===
+2025-06-12 13:39:40,000 - INFO - Nodo único: docker-desktop
+2025-06-12 13:39:40,001 - INFO - Pods detectados: 9
+2025-06-12 13:39:40,002 - INFO - Pod 1: coredns-668d6bf9bc-2vfp7 (Namespace: kube-system)
+2025-06-12 13:39:40,003 - INFO - Pod 2: coredns-668d6bf9bc-qxwl6 (Namespace: kube-system)
+2025-06-12 13:39:40,004 - INFO - Pod 3: etcd-docker-desktop (Namespace: kube-system)
+2025-06-12 13:39:40,004 - INFO - ... y 6 pods más
+2025-06-12 13:39:40,005 - INFO - 
+Próximo chequeo en 30 segundos...
+2025-06-12 13:40:10,290 - INFO - 
+=== Estado del cluster ===
+2025-06-12 13:40:10,293 - INFO - Nodo único: docker-desktop
+2025-06-12 13:40:10,297 - INFO - Pods detectados: 9
+2025-06-12 13:40:10,299 - INFO - Pod 1: coredns-668d6bf9bc-2vfp7 (Namespace: kube-system)
+2025-06-12 13:40:10,300 - INFO - Pod 2: coredns-668d6bf9bc-qxwl6 (Namespace: kube-system)
+2025-06-12 13:40:10,302 - INFO - Pod 3: etcd-docker-desktop (Namespace: kube-system)
+2025-06-12 13:40:10,307 - INFO - ... y 6 pods más
+2025-06-12 13:40:10,313 - INFO - 
+Próximo chequeo en 30 segundos...
+2025-06-12 13:40:40,723 - INFO - 
+=== Estado del cluster ===
+2025-06-12 13:40:40,734 - INFO - Nodo único: docker-desktop
+2025-06-12 13:40:40,739 - INFO - Pods detectados: 9
+2025-06-12 13:40:40,742 - INFO - Pod 1: coredns-668d6bf9bc-2vfp7 (Namespace: kube-system)
+2025-06-12 13:40:40,751 - INFO - Pod 2: coredns-668d6bf9bc-qxwl6 (Namespace: kube-system)
+2025-06-12 13:40:40,754 - INFO - Pod 3: etcd-docker-desktop (Namespace: kube-system)
+2025-06-12 13:40:40,756 - INFO - ... y 6 pods más
+2025-06-12 13:40:40,762 - INFO - 
+Próximo chequeo en 30 segundos...
+2025-06-12 13:41:11,054 - INFO - 
+=== Estado del cluster ===
+2025-06-12 13:41:11,056 - INFO - Nodo único: docker-desktop
+2025-06-12 13:41:11,057 - INFO - Pods detectados: 9
+2025-06-12 13:41:11,058 - INFO - Pod 1: coredns-668d6bf9bc-2vfp7 (Namespace: kube-system)
+2025-06-12 13:41:11,059 - INFO - Pod 2: coredns-668d6bf9bc-qxwl6 (Namespace: kube-system)
+2025-06-12 13:41:11,060 - INFO - Pod 3: etcd-docker-desktop (Namespace: kube-system)
+2025-06-12 13:41:11,063 - INFO - ... y 6 pods más
+2025-06-12 13:41:11,065 - INFO - 
+Próximo chequeo en 30 segundos...
+2025-06-12 13:41:41,304 - INFO - 
+=== Estado del cluster ===
+2025-06-12 13:41:41,307 - INFO - Nodo único: docker-desktop
+2025-06-12 13:41:41,310 - INFO - Pods detectados: 9
+2025-06-12 13:41:41,312 - INFO - Pod 1: coredns-668d6bf9bc-2vfp7 (Namespace: kube-system)
+2025-06-12 13:41:41,317 - INFO - Pod 2: coredns-668d6bf9bc-qxwl6 (Namespace: kube-system)
+2025-06-12 13:41:41,327 - INFO - Pod 3: etcd-docker-desktop (Namespace: kube-system)
+2025-06-12 13:41:41,334 - INFO - ... y 6 pods más
+2025-06-12 13:41:41,346 - INFO - 
+Próximo chequeo en 30 segundos...
+2025-06-12 13:42:11,752 - INFO - 
+=== Estado del cluster ===
+2025-06-12 13:42:11,766 - INFO - Nodo único: docker-desktop
+2025-06-12 13:42:11,773 - INFO - Pods detectados: 9
+2025-06-12 13:42:11,779 - INFO - Pod 1: coredns-668d6bf9bc-2vfp7 (Namespace: kube-system)
+2025-06-12 13:42:11,783 - INFO - Pod 2: coredns-668d6bf9bc-qxwl6 (Namespace: kube-system)
+2025-06-12 13:42:11,787 - INFO - Pod 3: etcd-docker-desktop (Namespace: kube-system)
+2025-06-12 13:42:11,803 - INFO - ... y 6 pods más
+2025-06-12 13:42:11,815 - INFO - 
+Próximo chequeo en 30 segundos...
+2025-06-12 13:42:41,565 - INFO - 
+Prueba finalizada manualmente

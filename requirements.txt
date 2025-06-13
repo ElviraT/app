@@ -1,0 +1,9 @@
+kubernetes==29.0.0
+python-dotenv>=0.19.0
+pytest>=7.1.2
+pytest-mock>=3.11.1
+azure-identity==1.15.0
+azure-mgmt-containerservice==23.0.0
+prometheus_client==0.20.0
+requests==2.31.0
+keda==2.12.2  # Restauramos KEDA para producción
